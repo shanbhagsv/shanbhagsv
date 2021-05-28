@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siddhivinayak Shanbhag
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning frontend design.
-- 💞️ I’m looking to collaborate on java/python projects.
+- 💞️ I’m looking to collaborate on Java/Python projects.
 - 📫 How to reach me siddhivinayak.shanbhag@gmail.com
 <!---
 shanbhagsv/shanbhagsv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
